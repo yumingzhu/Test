@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="importOrderConfigFilePath" value="E:/software/idea/formatter-profile.xml" />
+        <option name="pathToConfigFileJava" value="E:/software/idea/formatter-profile.xml" />
+        <option name="selectedJavaProfile" value="roomy" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+</project>
